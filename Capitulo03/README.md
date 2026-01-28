@@ -25,10 +25,10 @@ Esta actividad grupal integradora permite aplicar todos los conceptos del módul
 
 ## Prerrequisitos
 
--Haber completado todos los temas del Módulo 1.0
--Comprensión de los conceptos básicos de agentes de IA y sus capacidades
--Conocimiento de buenas prácticas de seguridad y privacidad en IA
--Capacidad para trabajar colaborativamente en equipos pequeños
+- Completar Módulo 2.0 con plan de agente aprobado y documentado
+- Comprensión de flujos de conversación básicos y lógica condicional
+- Familiaridad con conceptos de variables y entidades en sistemas conversacionales
+- Conocimiento básico de procesos bancarios (consultas de saldo, transferencias, productos)
 
 ---
 

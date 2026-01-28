@@ -24,7 +24,7 @@ Esta actividad grupal integradora permite aplicar todos los conceptos del módul
 
 ## Prerrequisitos
 
--Haber completado todos los temas del Módulo 1.0
+-Haber completado todos los temas del Módulo 2.0 sobre planificación de agentes de IA
 -Comprensión de los conceptos básicos de agentes de IA y sus capacidades
 -Conocimiento de buenas prácticas de seguridad y privacidad en IA
 -Capacidad para trabajar colaborativamente en equipos pequeños

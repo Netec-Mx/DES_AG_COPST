@@ -23,10 +23,10 @@ En esta actividad grupal avanzada, los equipos definirán e implementarán la pe
 
 ## Prerrequisitos
 
--Haber completado todos los temas del Módulo 1.0
--Comprensión de los conceptos básicos de agentes de IA y sus capacidades
--Conocimiento de buenas prácticas de seguridad y privacidad en IA
--Capacidad para trabajar colaborativamente en equipos pequeños
+- Módulo 3.0 completado con un agente bancario funcional en Copilot Studio
+- Comprensión de principios de comunicación corporativa y servicio al cliente
+- Conocimiento básico de normativas bancarias (proporcionado en materiales de referencia)
+- Familiaridad con la sección de instrucciones del sistema en Copilot Studio
 
 ---
 
