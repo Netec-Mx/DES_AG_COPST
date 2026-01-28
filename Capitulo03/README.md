@@ -1,16 +1,6 @@
 
 # Diseña entradas y salidas estructuradas
 
----
-
-## Información General del Curso
-
-- **Curso:** Desarrollo básico de Agentes de IA con Copilot Studio y Power Platform  
-- **Módulo:** 1 – Fundamentos de Copilot Studio y Power Platform  
-- **Tipo de actividad:** Laboratorio grupal práctico  
-- **Duración estimada:** 54 minutos  
-- **Nivel:** Principiante  
-- **Nivel de Bloom:** Aplicar  
 
 ---
 

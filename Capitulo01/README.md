@@ -3,17 +3,6 @@
 
 ---
 
-## Información General del Curso
-
-- **Curso:** Desarrollo básico de Agentes de IA con Copilot Studio y Power Platform  
-- **Módulo:** 1 – Fundamentos de Copilot Studio y Power Platform  
-- **Tipo de actividad:** Laboratorio grupal práctico  
-- **Duración estimada:** 53 minutos  
-- **Nivel:** Principiante  
-- **Nivel de Bloom:** Aplicar  
-
----
-
 ## Descripción General
 
 En esta actividad grupal práctica, los equipos explorarán **Microsoft Copilot Studio** y crearán su primer **agente de IA básico** orientado al sector bancario.
