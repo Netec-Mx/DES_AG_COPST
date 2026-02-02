@@ -1,6 +1,4 @@
 
-# Ajusta y optimiza el comportamiento del agente
-
 # Agrega razonamiento y uso de herramientas
 
 ---
