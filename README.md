@@ -2,7 +2,7 @@
 
 
 
-# Nombre del curso
+#  Desarrollo básico de Agentes de IA con Copilot Studio y Power Platform
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Desarrollo básico de Agentes de IA con Copilot Studio y Power Platform**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 
 
@@ -22,7 +22,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+### [Práctica 1. Desarrollo básico de Agentes de IA con Copilot Studio](Capitulo01/README.md) 
 
   - **Descripción**: xxx.
 
