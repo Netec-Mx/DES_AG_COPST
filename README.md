@@ -40,7 +40,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 3. Diseña entradas y salidas estructuradas](Capitulo03/README.md)
 
-  - **Descripción**: Esta actividad grupal integradora permite aplicar todos los conceptos del módulo 2 en un ejercicio práctico colaborativo de diseño de agentes de IA. Los equipos de 3-4 personas trabajarán para definir completamente un agente de IA desde su concepción hasta un plan de desarrollo estructurado, incluyendo funcionalidades, público objetivo, tipos de salida y consideraciones de seguridad y ética. Al finalizar, cada equipo presentará su plan documentado al resto de la clase para retroalimentación y discusión.
+  - **Descripción**: Esta actividad grupal integradora permite aplicar todos los conceptos del módulo 3 en un ejercicio práctico colaborativo de diseño de agentes de IA. Los equipos de 3-4 personas trabajarán para definir completamente un agente de IA desde su concepción hasta un plan de desarrollo estructurado, incluyendo funcionalidades, público objetivo, tipos de salida y consideraciones de seguridad y ética. Al finalizar, cada equipo presentará su plan documentado al resto de la clase para retroalimentación y discusión.
 
   - ⏱️**Duración estimada**: 40 min.
 
