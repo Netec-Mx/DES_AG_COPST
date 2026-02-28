@@ -183,15 +183,7 @@ Configurar el tema de bienvenida:
    - Verificación de documentos
    - Consulta sobre tasación
 
-3. Crear variables globales para contexto compartido:
-- Navegar a Settings > Variables
-- Crear las siguientes variables:
-  ClienteID (tipo: String)
-  TipoConsulta (tipo: String)
-  EstadoProceso (tipo: String)
-  DatosRecopilados (tipo: String)
-
-4. Crear el tema de enrutamiento principal:
+3. Crear el tema de enrutamiento principal:
 - Ir a Topics > + New topic > From blank
 - Nombre: Enrutamiento Inicial
 - Agregar trigger phrases:
@@ -201,7 +193,7 @@ Configurar el tema de bienvenida:
      información sobre hipotecas
      ayuda con mi solicitud
 
-5. Configurar la lógica de enrutamiento:
+4. Configurar la lógica de enrutamiento:
 
 Agregar nodo Question para identificar tipo de consulta:
 
@@ -213,7 +205,7 @@ Agregar nodo Question para identificar tipo de consulta:
   Documentación requerida
 - Guardar respuesta en variable TipoConsulta
 
-6. Agregar nodo de mensaje antes de transferencia:
+5. Agregar nodo de mensaje antes de transferencia:
 
    Perfecto, te voy a conectar con nuestro especialista en [TipoConsulta].
 
@@ -348,7 +340,7 @@ Objetivo: Implementar la funcionalidad de transferencia entre el agente coordina
 
 2. Configurar la primera transferencia (del Coordinador al Especialista 1):
 - Abrir el tema Enrutamiento Inicial
-- Después del mensaje de preparación para transferencia, agregar nodo Transfer conversation
+- Después del mensaje de preparación para transferencia, agregar nodo Transfer conversation (ubicado en agregar nodo, administrador de temas, transferir conversación)
 - Configurar:
   Transfer to: Another agent
   Clic en Select agent
